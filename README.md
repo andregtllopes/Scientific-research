@@ -2,9 +2,6 @@
 
 A repository containing implementations, models, and analyses of scientific articles authored and co-authored by **André Gambogi**.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 ## 📚 Research Publications
 
@@ -76,20 +73,12 @@ Each project includes detailed documentation covering:
 
 ## 👨‍🔬 Author
 
-**André Gambogi** - Researcher, Machine Learning Practitioner, Computational Biologist
+**André Gambogi** - Researcher, UFMG Student
 
 ## 🤝 Contributing
 
 This is an archive of published research. For questions about methodology or technical details, please refer to the respective project documentation.
 
-## 📄 License
-
-MIT License - See individual project directories for specific licensing information.
-
-## 📧 Contact & Support
-
-For inquiries about these research projects, please open an issue in this repository:
-[GitHub Issues](https://github.com/andregtllopes/Scientific-research/issues)
 
 ---
 
