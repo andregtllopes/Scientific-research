@@ -1,9 +1,5 @@
 # DEP: Dual-Path Embeddings for Protein Toxicity Classification
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-ee4c2c.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 ## 📋 Description
 
 **DEP (Dual-Path Embeddings)** is an advanced deep learning model designed for protein toxicity classification. This work combines two complementary neural network pathways to process protein sequences and predict their toxicity potential with high accuracy. The model leverages both convolutional neural networks and transformer-based architectures to capture local and global patterns in protein sequences simultaneously.
@@ -138,12 +134,6 @@ The model achieves competitive performance on protein toxicity classification be
 - **Multi-Scale Analysis**: Captures patterns at different scales through dilated convolutions
 
 For detailed performance metrics and comparisons, refer to the full research paper.
-
-## 📚 References
-
-For comprehensive information about the methodology, architecture design choices, experimental setup, and detailed results, please consult:
-
-- **"DEP: Dual-Path Embeddings for Protein Toxicity Classification"** - Full research paper included in this directory
 
 ## 👨‍🔬 Author
 
