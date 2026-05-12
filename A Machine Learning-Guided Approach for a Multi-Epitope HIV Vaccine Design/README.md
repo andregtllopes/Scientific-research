@@ -1,9 +1,5 @@
 # A Machine Learning-Guided Approach for a Multi-Epitope HIV Vaccine Design
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Research-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Research](https://img.shields.io/badge/Research-Active-brightgreen.svg)
 
 ## 📋 Description
 
@@ -155,7 +151,7 @@ For comprehensive methodology, detailed results, and experimental validation, pl
 
 ## 👨‍🔬 Author
 
-**André Gambogi** - Computational Biologist, Machine Learning Researcher
+**André Gambogi** - Machine Learning Researcher
 
 ## 📝 Citation
 
@@ -165,20 +161,10 @@ If you utilize this research in your work, please cite as:
 @article{Gambogi_MLVaccineDesign,
   author={Gambogi, André},
   title={A Machine Learning-Guided Approach for a Multi-Epitope HIV Vaccine Design},
-  year={2024}
+  year={2025}
 }
 ```
 
-## 📧 Support & Questions
-
-For technical inquiries about the research methodology or implementation details, please refer to the full paper or open an issue:
-[GitHub Issues](https://github.com/andregtllopes/Scientific-research/issues)
-
-## 📄 License
-
-MIT License - See main repository for details.
-
----
 
 **Last Updated:** May 2024  
 **Research Status:** Published  
